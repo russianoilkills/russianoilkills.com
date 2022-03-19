@@ -1,0 +1,614 @@
+[
+  {
+    "iso": "WLD",
+    "amount": 141918219658
+  },
+  {
+    "iso": "AFG",
+    "amount": 31228482
+  },
+  {
+    "iso": "ALB",
+    "amount": 54489257
+  },
+  {
+    "iso": "DZA",
+    "amount": 50922687
+  },
+  {
+    "iso": "AGO",
+    "amount": 2569790
+  },
+  {
+    "iso": "AZE",
+    "amount": 83203463
+  },
+  {
+    "iso": "ARG",
+    "amount": 3121107
+  },
+  {
+    "iso": "AUS",
+    "amount": 17967452
+  },
+  {
+    "iso": "AUT",
+    "amount": 5882371
+  },
+  {
+    "iso": "BHS",
+    "amount": 161384162
+  },
+  {
+    "iso": "BHR",
+    "amount": 2907295
+  },
+  {
+    "iso": "BGD",
+    "amount": 9423409
+  },
+  {
+    "iso": "ARM",
+    "amount": 173395650
+  },
+  {
+    "iso": "BEL",
+    "amount": 2570934136
+  },
+  {
+    "iso": "BOL",
+    "amount": 5531
+  },
+  {
+    "iso": "BIH",
+    "amount": 82875
+  },
+  {
+    "iso": "BRA",
+    "amount": 309467955
+  },
+  {
+    "iso": "BRN",
+    "amount": 70363946
+  },
+  {
+    "iso": "BGR",
+    "amount": 904932535
+  },
+  {
+    "iso": "MMR",
+    "amount": 3578939
+  },
+  {
+    "iso": "BLR",
+    "amount": 3760160952
+  },
+  {
+    "iso": "KHM",
+    "amount": 96564
+  },
+  {
+    "iso": "CMR",
+    "amount": 19789470
+  },
+  {
+    "iso": "CAN",
+    "amount": 41489462
+  },
+  {
+    "iso": "CPV",
+    "amount": 174362
+  },
+  {
+    "iso": "CAF",
+    "amount": 118350
+  },
+  {
+    "iso": "LKA",
+    "amount": 1557369
+  },
+  {
+    "iso": "CHL",
+    "amount": 19916274
+  },
+  {
+    "iso": "CHN",
+    "amount": 29130233513
+  },
+  {
+    "iso": "COL",
+    "amount": 5060875
+  },
+  {
+    "iso": "COG",
+    "amount": 1644911
+  },
+  {
+    "iso": "COD",
+    "amount": 36725
+  },
+  {
+    "iso": "CRI",
+    "amount": 1519437
+  },
+  {
+    "iso": "HRV",
+    "amount": 437960446
+  },
+  {
+    "iso": "CYP",
+    "amount": 189018543
+  },
+  {
+    "iso": "CZE",
+    "amount": 921825340
+  },
+  {
+    "iso": "BEN",
+    "amount": 4401739
+  },
+  {
+    "iso": "DNK",
+    "amount": 869041960
+  },
+  {
+    "iso": "DOM",
+    "amount": 981091
+  },
+  {
+    "iso": "ECU",
+    "amount": 60384761
+  },
+  {
+    "iso": "EST",
+    "amount": 837408897
+  },
+  {
+    "iso": "FRO",
+    "amount": 3004305
+  },
+  {
+    "iso": "FIN",
+    "amount": 3728786095
+  },
+  {
+    "iso": "FRA",
+    "amount": 2559671266
+  },
+  {
+    "iso": "PYF",
+    "amount": 179200
+  },
+  {
+    "iso": "DJI",
+    "amount": 379449
+  },
+  {
+    "iso": "GAB",
+    "amount": 173226
+  },
+  {
+    "iso": "GEO",
+    "amount": 242685868
+  },
+  {
+    "iso": "PSE",
+    "amount": 184844
+  },
+  {
+    "iso": "DEU",
+    "amount": 9082420503
+  },
+  {
+    "iso": "GHA",
+    "amount": 3597078
+  },
+  {
+    "iso": "GIB",
+    "amount": 597806927
+  },
+  {
+    "iso": "GRC",
+    "amount": 1846516566
+  },
+  {
+    "iso": "GTM",
+    "amount": 1882006
+  },
+  {
+    "iso": "GIN",
+    "amount": 1606533
+  },
+  {
+    "iso": "GUY",
+    "amount": 195694
+  },
+  {
+    "iso": "HND",
+    "amount": 612947
+  },
+  {
+    "iso": "HKG",
+    "amount": 155930583
+  },
+  {
+    "iso": "HUN",
+    "amount": 1173046328
+  },
+  {
+    "iso": "ISL",
+    "amount": 1546194
+  },
+  {
+    "iso": "IDN",
+    "amount": 162060544
+  },
+  {
+    "iso": "IRQ",
+    "amount": 4830693
+  },
+  {
+    "iso": "IRL",
+    "amount": 130753899
+  },
+  {
+    "iso": "ISR",
+    "amount": 237557624
+  },
+  {
+    "iso": "ITA",
+    "amount": 5404498719
+  },
+  {
+    "iso": "CIV",
+    "amount": 1004023
+  },
+  {
+    "iso": "JAM",
+    "amount": 1288147
+  },
+  {
+    "iso": "JPN",
+    "amount": 6247673285
+  },
+  {
+    "iso": "KAZ",
+    "amount": 900631684
+  },
+  {
+    "iso": "JOR",
+    "amount": 6191838
+  },
+  {
+    "iso": "KEN",
+    "amount": 3311934
+  },
+  {
+    "iso": "PRK",
+    "amount": 10992619
+  },
+  {
+    "iso": "KOR",
+    "amount": 9068997921
+  },
+  {
+    "iso": "KWT",
+    "amount": 1368990
+  },
+  {
+    "iso": "KGZ",
+    "amount": 451829502
+  },
+  {
+    "iso": "LBN",
+    "amount": 179579970
+  },
+  {
+    "iso": "LVA",
+    "amount": 1674912347
+  },
+  {
+    "iso": "LBR",
+    "amount": 290000
+  },
+  {
+    "iso": "LBY",
+    "amount": 12222755
+  },
+  {
+    "iso": "LTU",
+    "amount": 1056271593
+  },
+  {
+    "iso": "LUX",
+    "amount": 465
+  },
+  {
+    "iso": "MDG",
+    "amount": 158220
+  },
+  {
+    "iso": "MYS",
+    "amount": 831003159
+  },
+  {
+    "iso": "MDV",
+    "amount": 5852
+  },
+  {
+    "iso": "MLI",
+    "amount": 370698
+  },
+  {
+    "iso": "MLT",
+    "amount": 2243832003
+  },
+  {
+    "iso": "MRT",
+    "amount": 1367831
+  },
+  {
+    "iso": "MEX",
+    "amount": 21232409
+  },
+  {
+    "iso": null,
+    "amount": 1274396720
+  },
+  {
+    "iso": "MNG",
+    "amount": 746855925
+  },
+  {
+    "iso": "MDA",
+    "amount": 47647123
+  },
+  {
+    "iso": "MNE",
+    "amount": 247428
+  },
+  {
+    "iso": "MAR",
+    "amount": 436334988
+  },
+  {
+    "iso": "MOZ",
+    "amount": 1851772
+  },
+  {
+    "iso": "OMN",
+    "amount": 48559003
+  },
+  {
+    "iso": "NAM",
+    "amount": 804522
+  },
+  {
+    "iso": "NPL",
+    "amount": 41596
+  },
+  {
+    "iso": "NLD",
+    "amount": 17532987806
+  },
+  {
+    "iso": "CUW",
+    "amount": 101996
+  },
+  {
+    "iso": "NCL",
+    "amount": 3357405
+  },
+  {
+    "iso": "NZL",
+    "amount": 250406024
+  },
+  {
+    "iso": "NIC",
+    "amount": 915266
+  },
+  {
+    "iso": "NGA",
+    "amount": 43243453
+  },
+  {
+    "iso": "NOR",
+    "amount": 305001190
+  },
+  {
+    "iso": "MHL",
+    "amount": 10980
+  },
+  {
+    "iso": "PAK",
+    "amount": 53817062
+  },
+  {
+    "iso": "PAN",
+    "amount": 19114331
+  },
+  {
+    "iso": "PNG",
+    "amount": 4284
+  },
+  {
+    "iso": "PRY",
+    "amount": 22300756
+  },
+  {
+    "iso": "PER",
+    "amount": 23655304
+  },
+  {
+    "iso": "PHL",
+    "amount": 181416043
+  },
+  {
+    "iso": "POL",
+    "amount": 6066646862
+  },
+  {
+    "iso": "PRT",
+    "amount": 98751279
+  },
+  {
+    "iso": "QAT",
+    "amount": 1739162
+  },
+  {
+    "iso": "ROU",
+    "amount": 1246874023
+  },
+  {
+    "iso": "SAU",
+    "amount": 395531000
+  },
+  {
+    "iso": "SEN",
+    "amount": 346909025
+  },
+  {
+    "iso": "SRB",
+    "amount": 8016124
+  },
+  {
+    "iso": "SYC",
+    "amount": 614
+  },
+  {
+    "iso": "SLE",
+    "amount": 1642
+  },
+  {
+    "iso": "IND",
+    "amount": 1059397233
+  },
+  {
+    "iso": "SGP",
+    "amount": 1099016395
+  },
+  {
+    "iso": "SVK",
+    "amount": 1534278286
+  },
+  {
+    "iso": "VNM",
+    "amount": 543226658
+  },
+  {
+    "iso": "SVN",
+    "amount": 320309505
+  },
+  {
+    "iso": "SOM",
+    "amount": 199085
+  },
+  {
+    "iso": "ZAF",
+    "amount": 58678294
+  },
+  {
+    "iso": "ESP",
+    "amount": 1186991150
+  },
+  {
+    "iso": "SSD",
+    "amount": 40
+  },
+  {
+    "iso": "SDN",
+    "amount": 2708371
+  },
+  {
+    "iso": "ESH",
+    "amount": 85748
+  },
+  {
+    "iso": "SUR",
+    "amount": 445824
+  },
+  {
+    "iso": "SWE",
+    "amount": 509600273
+  },
+  {
+    "iso": "CHE",
+    "amount": 506145136
+  },
+  {
+    "iso": "TJK",
+    "amount": 175284258
+  },
+  {
+    "iso": "THA",
+    "amount": 93459055
+  },
+  {
+    "iso": "TGO",
+    "amount": 257478909
+  },
+  {
+    "iso": "TTO",
+    "amount": 148289
+  },
+  {
+    "iso": "ARE",
+    "amount": 958359883
+  },
+  {
+    "iso": "TUN",
+    "amount": 138728342
+  },
+  {
+    "iso": "TUR",
+    "amount": 4352731579
+  },
+  {
+    "iso": "TKM",
+    "amount": 6901738
+  },
+  {
+    "iso": "UKR",
+    "amount": 2349675887
+  },
+  {
+    "iso": "MKD",
+    "amount": 21967
+  },
+  {
+    "iso": "EGY",
+    "amount": 162503660
+  },
+  {
+    "iso": "GBR",
+    "amount": 2454974194
+  },
+  {
+    "iso": "TZA",
+    "amount": 2934472
+  },
+  {
+    "iso": "USA",
+    "amount": 5491356147
+  },
+  {
+    "iso": "BFA",
+    "amount": 184403
+  },
+  {
+    "iso": "URY",
+    "amount": 2789508
+  },
+  {
+    "iso": "UZB",
+    "amount": 415450032
+  },
+  {
+    "iso": "YEM",
+    "amount": 33315203
+  },
+  {
+    "iso": null,
+    "amount": 230152936
+  }
+]

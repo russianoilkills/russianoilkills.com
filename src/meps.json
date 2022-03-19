@@ -1,0 +1,5642 @@
+[
+  {
+    "fullName": "Gerolf ANNEMANS",
+    "country": "Belgium",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124973",
+    "nationalPoliticalGroup": "Vlaams Belang",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Maria ARENA",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124936",
+    "nationalPoliticalGroup": "Parti Socialiste",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Pascal ARIMONT",
+    "country": "Belgium",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "24922",
+    "nationalPoliticalGroup": "Christlich Soziale Partei",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Marc BOTENGA",
+    "country": "Belgium",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "187917",
+    "nationalPoliticalGroup": "Parti du Travail de Belgique",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Geert BOURGEOIS",
+    "country": "Belgium",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197467",
+    "nationalPoliticalGroup": "Nieuw-Vlaamse Alliantie",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Saskia BRICMONT",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197470",
+    "nationalPoliticalGroup": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Olivier CHASTEL",
+    "country": "Belgium",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197463",
+    "nationalPoliticalGroup": "Mouvement Réformateur",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Filip DE MAN",
+    "country": "Belgium",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197472",
+    "nationalPoliticalGroup": "Vlaams Belang",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Cindy FRANSSEN",
+    "country": "Belgium",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197455",
+    "nationalPoliticalGroup": "Christen-Democratisch & Vlaams",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Assita KANKO",
+    "country": "Belgium",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197469",
+    "nationalPoliticalGroup": "Nieuw-Vlaamse Alliantie",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Philippe LAMBERTS",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96648",
+    "nationalPoliticalGroup": "Ecologistes Confédérés pour l'Organisation de Luttes Originales",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Benoît LUTGEN",
+    "country": "Belgium",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197458",
+    "nationalPoliticalGroup": "Centre Démocrate Humaniste",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Sara MATTHIEU",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "208722",
+    "nationalPoliticalGroup": "Groen",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Frédérique RIES",
+    "country": "Belgium",
+    "politicalGroup": "Renew Europe Group",
+    "id": "4253",
+    "nationalPoliticalGroup": "Mouvement Réformateur",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Marc TARABELLA",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "29579",
+    "nationalPoliticalGroup": "Parti Socialiste",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Kathleen VAN BREMPT",
+    "country": "Belgium",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "5729",
+    "nationalPoliticalGroup": "Socialistische Partij.Anders",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Tom VANDENDRIESSCHE",
+    "country": "Belgium",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "185771",
+    "nationalPoliticalGroup": "Vlaams Belang",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Tom VANDENKENDELAERE",
+    "country": "Belgium",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "129164",
+    "nationalPoliticalGroup": "Christen-Democratisch & Vlaams",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Johan VAN OVERTVELDT",
+    "country": "Belgium",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "125106",
+    "nationalPoliticalGroup": "Nieuw-Vlaamse Alliantie",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Hilde VAUTMANS",
+    "country": "Belgium",
+    "politicalGroup": "Renew Europe Group",
+    "id": "130100",
+    "nationalPoliticalGroup": "Open Vlaamse Liberalen en Democraten",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Guy VERHOFSTADT",
+    "country": "Belgium",
+    "politicalGroup": "Renew Europe Group",
+    "id": "97058",
+    "nationalPoliticalGroup": "Open Vlaamse Liberalen en Democraten",
+    "iso2": "BE"
+  },
+  {
+    "fullName": "Nikos ANDROULAKIS",
+    "country": "Greece",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125110",
+    "nationalPoliticalGroup": "PASOK-KINAL",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Konstantinos ARVANITIS",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197701",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Anna-Michelle ASIMAKOPOULOU",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197695",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Emmanouil FRAGKOS",
+    "country": "Greece",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "198490",
+    "nationalPoliticalGroup": "Elliniki Lusi-Greek Solution",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Alexis GEORGOULIS",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197819",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Eva KAILI",
+    "country": "Greece",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125109",
+    "nationalPoliticalGroup": "Panhellenic Socialist Movement - Olive Tree",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Manolis KEFALOGIANNIS",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125068",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Petros KOKKALIS",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197743",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Athanasios KONSTANTINOU",
+    "country": "Greece",
+    "politicalGroup": "Non-attached Members",
+    "id": "197740",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Stelios KOULOGLOU",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "130833",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Elena KOUNTOURA",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197699",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Stelios KYMPOUROPOULOS",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197692",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Georgios KYRTSOS",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125063",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Ioannis LAGOS",
+    "country": "Greece",
+    "politicalGroup": "Non-attached Members",
+    "id": "197737",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Vangelis MEIMARAKIS",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197662",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Lefteris NIKOLAOU-ALAVANOS",
+    "country": "Greece",
+    "politicalGroup": "Non-attached Members",
+    "id": "197734",
+    "nationalPoliticalGroup": "Communist Party of Greece",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Kostas PAPADAKIS",
+    "country": "Greece",
+    "politicalGroup": "Non-attached Members",
+    "id": "125093",
+    "nationalPoliticalGroup": "Communist Party of Greece",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Dimitrios PAPADIMOULIS",
+    "country": "Greece",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "28586",
+    "nationalPoliticalGroup": "Coalition of the Radical Left",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Maria SPYRAKI",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125064",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Elissavet VOZEMBERG-VRIONIDI",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125065",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Theodoros ZAGORAKIS",
+    "country": "Greece",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125067",
+    "nationalPoliticalGroup": "Nea Demokratia",
+    "iso2": "GR"
+  },
+  {
+    "fullName": "Petras AUŠTREVIČIUS",
+    "country": "Lithuania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124766",
+    "nationalPoliticalGroup": "Lietuvos Respublikos liberalų sąjūdis",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Vilija BLINKEVIČIŪTĖ",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96681",
+    "nationalPoliticalGroup": "Lietuvos socialdemokratų partija",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Stasys JAKELIŪNAS",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197837",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Rasa JUKNEVIČIENĖ",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197840",
+    "nationalPoliticalGroup": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Andrius KUBILIUS",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197843",
+    "nationalPoliticalGroup": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Aušra MALDEIKIENĖ",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197835",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Liudas MAŽYLIS",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197841",
+    "nationalPoliticalGroup": "Tėvynės sąjunga-Lietuvos krikščionys demokratai",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Juozas OLEKAS",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197838",
+    "nationalPoliticalGroup": "Lietuvos socialdemokratų partija",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Bronis ROPĖ",
+    "country": "Lithuania",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "125214",
+    "nationalPoliticalGroup": "Lietuvos valstiečių ir žaliųjų sąjunga",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Valdemar TOMAŠEVSKI",
+    "country": "Lithuania",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "96697",
+    "nationalPoliticalGroup": "Lietuvos lenkų rinkimų akcija – Krikščioniškų šeimų sąjunga",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Viktor USPASKICH",
+    "country": "Lithuania",
+    "politicalGroup": "Non-attached Members",
+    "id": "96698",
+    "nationalPoliticalGroup": "Darbo partija",
+    "iso2": "LT"
+  },
+  {
+    "fullName": "Álvaro AMARO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197746",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Isabel CARVALHAIS",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "199996",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Maria da Graça CARVALHO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96867",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Sara CERDAS",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197641",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "José Manuel FERNANDES",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96899",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Francisco GUERREIRO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197645",
+    "nationalPoliticalGroup": "Independente",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "José GUSMÃO",
+    "country": "Portugal",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "88715",
+    "nationalPoliticalGroup": "Bloco de Esquerda",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Maria-Manuel LEITÃO-MARQUES",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197635",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Margarida MARQUES",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197638",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Pedro MARQUES",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197634",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Marisa MATIAS",
+    "country": "Portugal",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "96820",
+    "nationalPoliticalGroup": "Bloco de Esquerda",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Nuno MELO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96978",
+    "nationalPoliticalGroup": "Partido do Centro Democrático Social-Partido Popular",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Cláudia MONTEIRO DE AGUIAR",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124734",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Sandra PEREIRA",
+    "country": "Portugal",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197754",
+    "nationalPoliticalGroup": "Partido Comunista Português",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Lídia PEREIRA",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197738",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "João PIMENTA LOPES",
+    "country": "Portugal",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "136236",
+    "nationalPoliticalGroup": "Partido Comunista Português",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Manuel PIZARRO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197732",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Paulo RANGEL",
+    "country": "Portugal",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96903",
+    "nationalPoliticalGroup": "Partido Social Democrata",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Isabel SANTOS",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197650",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Pedro SILVA PEREIRA",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124747",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Carlos ZORRINHO",
+    "country": "Portugal",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124739",
+    "nationalPoliticalGroup": "Partido Socialista",
+    "iso2": "PT"
+  },
+  {
+    "fullName": "Asim ADEMOV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "189525",
+    "nationalPoliticalGroup": "Citizens for European Development of Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Alexander ALEXANDROV YORDANOV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197836",
+    "nationalPoliticalGroup": "Union of Democratic Forces",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Atidzhe ALIEVA-VELI",
+    "country": "Bulgaria",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197848",
+    "nationalPoliticalGroup": "Movement for Rights and Freedoms",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Angel DZHAMBAZKI",
+    "country": "Bulgaria",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124873",
+    "nationalPoliticalGroup": "VMRO",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Ivo HRISTOV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197846",
+    "nationalPoliticalGroup": "Bulgarian Socialist Party",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Radan KANEV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197839",
+    "nationalPoliticalGroup": "Democrats for Strong Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Andrey KOVATCHEV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "97968",
+    "nationalPoliticalGroup": "Citizens for European Development of Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Ilhan KYUCHYUK",
+    "country": "Bulgaria",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124866",
+    "nationalPoliticalGroup": "Movement for Rights and Freedoms",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Eva MAYDELL",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "98341",
+    "nationalPoliticalGroup": "Citizens for European Development of Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Iskra MIHAYLOVA",
+    "country": "Bulgaria",
+    "politicalGroup": "Renew Europe Group",
+    "id": "125128",
+    "nationalPoliticalGroup": "Movement for Rights and Freedoms",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Andrey NOVAKOV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "107212",
+    "nationalPoliticalGroup": "Citizens for European Development of Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Tsvetelina PENKOVA",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197845",
+    "nationalPoliticalGroup": "Bulgarian Socialist Party",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Emil RADEV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124850",
+    "nationalPoliticalGroup": "Citizens for European Development of Bulgaria",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Andrey SLABAKOV",
+    "country": "Bulgaria",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197849",
+    "nationalPoliticalGroup": "VMRO",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Sergei STANISHEV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124852",
+    "nationalPoliticalGroup": "Bulgarian Socialist Party",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Petar VITANOV",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197844",
+    "nationalPoliticalGroup": "Bulgarian Socialist Party",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Elena YONCHEVA",
+    "country": "Bulgaria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197842",
+    "nationalPoliticalGroup": "Bulgarian Socialist Party",
+    "iso2": "BG"
+  },
+  {
+    "fullName": "Mazaly AGUILAR",
+    "country": "Spain",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "198096",
+    "nationalPoliticalGroup": "VOX",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Clara AGUILERA",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125045",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Pablo ARIAS ECHEVERRÍA",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96808",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Pernando BARRENA ARZA",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197684",
+    "nationalPoliticalGroup": "EH BILDU",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "José Ramón BAUZÁ DÍAZ",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197779",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Isabel BENJUMEA BENJUMEA",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197679",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Izaskun BILBAO BARANDICA",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "96922",
+    "nationalPoliticalGroup": "Partido Nacionalista Vasco",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Jorge BUXADÉ VILLALBA",
+    "country": "Spain",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197829",
+    "nationalPoliticalGroup": "VOX",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Jordi CAÑAS",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "126644",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Pilar del CASTILLO VERA",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28390",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Antoni COMÍN I OLIVERES",
+    "country": "Spain",
+    "politicalGroup": "Non-attached Members",
+    "id": "202352",
+    "nationalPoliticalGroup": "Junts per Catalunya - Lliures per Europa",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Estrella DURÁ FERRANDIS",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "198329",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Rosa ESTARÀS FERRAGUT",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96811",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Jonás FERNÁNDEZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125046",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Lina GÁLVEZ MUÑOZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197702",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Ibán GARCÍA DEL BLANCO",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197717",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "José Manuel GARCÍA-MARGALLO Y MARFIL",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "1992",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Isabel GARCÍA MUÑOZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197742",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Iratxe GARCÍA PÉREZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "28298",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Eider GARDIAZABAL RUBIAL",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96991",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Luis GARICANO",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197554",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Mónica Silvana GONZÁLEZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197728",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Nicolás GONZÁLEZ CASARES",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197718",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Esteban GONZÁLEZ PONS",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125027",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Alicia HOMS GINEL",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "122978",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Javi LÓPEZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125042",
+    "nationalPoliticalGroup": "Partit dels Socialistes de Catalunya",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Juan Fernando LÓPEZ AGUILAR",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96812",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Leopoldo LÓPEZ GIL",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197777",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Antonio LÓPEZ-ISTÚRIZ WHITE",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28399",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "César LUENA",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197721",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Cristina MAESTRE MARTÍN DE ALMAGRO",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197719",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Adriana MALDONADO LÓPEZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197735",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Gabriel MATO",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96936",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Francisco José MILLÁN MON",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28400",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Dolors MONTSERRAT",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197711",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Javier MORENO SÁNCHEZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "28347",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Javier NART",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "125005",
+    "nationalPoliticalGroup": "Independiente",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Maite PAGAZAURTUNDÚA",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "125038",
+    "nationalPoliticalGroup": "Delegación Ciudadanos Europeos",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Manu PINEDA",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197828",
+    "nationalPoliticalGroup": "Izquierda Unida",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Margarita DE LA PISA CARRIÓN",
+    "country": "Spain",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "204414",
+    "nationalPoliticalGroup": "VOX",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Clara PONSATÍ OBIOLS",
+    "country": "Spain",
+    "politicalGroup": "Non-attached Members",
+    "id": "204443",
+    "nationalPoliticalGroup": "Junts per Catalunya - Lliures per Europa",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Carles PUIGDEMONT I CASAMAJÓ",
+    "country": "Spain",
+    "politicalGroup": "Non-attached Members",
+    "id": "202351",
+    "nationalPoliticalGroup": "Junts per Catalunya - Lliures per Europa",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Sira REGO",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197681",
+    "nationalPoliticalGroup": "Izquierda Unida",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Diana RIBA I GINER",
+    "country": "Spain",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197832",
+    "nationalPoliticalGroup": "Esquerra Republicana de Catalunya",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Inma RODRÍGUEZ-PIÑERO",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125043",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Eugenia RODRÍGUEZ PALOP",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197785",
+    "nationalPoliticalGroup": "PODEMOS",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "María Soraya RODRÍGUEZ RAMOS",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "4344",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Marcos ROS SEMPERE",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "204413",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Domènec RUIZ DEVESA",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "127096",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Nacho SÁNCHEZ AMOR",
+    "country": "Spain",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197722",
+    "nationalPoliticalGroup": "Partido Socialista Obrero Español",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Jordi SOLÉ",
+    "country": "Spain",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "185974",
+    "nationalPoliticalGroup": "Esquerra Republicana de Catalunya",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Susana SOLÍS PÉREZ",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197784",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Hermann TERTSCH",
+    "country": "Spain",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197831",
+    "nationalPoliticalGroup": "VOX",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Miguel URBÁN CRESPO",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "131507",
+    "nationalPoliticalGroup": "ANTICAPITALISTAS",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Ernest URTASUN",
+    "country": "Spain",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124972",
+    "nationalPoliticalGroup": "Catalunya en Comú",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Idoia VILLANUEVA RUIZ",
+    "country": "Spain",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197827",
+    "nationalPoliticalGroup": "PODEMOS",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Adrián VÁZQUEZ LÁZARA",
+    "country": "Spain",
+    "politicalGroup": "Renew Europe Group",
+    "id": "204400",
+    "nationalPoliticalGroup": "Ciudadanos – Partido de la Ciudadanía",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Javier ZARZALEJOS",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197606",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Juan Ignacio ZOIDO ÁLVAREZ",
+    "country": "Spain",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197621",
+    "nationalPoliticalGroup": "Partido Popular",
+    "iso2": "ES"
+  },
+  {
+    "fullName": "Marc ANGEL",
+    "country": "Luxembourg",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "202073",
+    "nationalPoliticalGroup": "Parti ouvrier socialiste luxembourgeois",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Charles GOERENS",
+    "country": "Luxembourg",
+    "politicalGroup": "Renew Europe Group",
+    "id": "840",
+    "nationalPoliticalGroup": "Parti démocratique",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Christophe HANSEN",
+    "country": "Luxembourg",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "193419",
+    "nationalPoliticalGroup": "Parti chrétien social luxembourgeois",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Tilly METZ",
+    "country": "Luxembourg",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "193292",
+    "nationalPoliticalGroup": "Déi Gréng - Les Verts",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Monica SEMEDO",
+    "country": "Luxembourg",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197418",
+    "nationalPoliticalGroup": "Indépendent",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Isabel WISELER-LIMA",
+    "country": "Luxembourg",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197421",
+    "nationalPoliticalGroup": "Parti chrétien social luxembourgeois",
+    "iso2": "LU"
+  },
+  {
+    "fullName": "Carmen AVRAM",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197651",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Traian BĂSESCU",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197671",
+    "nationalPoliticalGroup": "Partidul Mișcarea Populară",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Adrian-Dragoş BENEA",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197658",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Vasile BLAGA",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197637",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Ioan-Rareş BOGDAN",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197636",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Vlad-Marius BOTOŞ",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197668",
+    "nationalPoliticalGroup": "Uniunea Salvați România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Daniel BUDA",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125012",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Cristian-Silviu BUŞOI",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "38420",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Dacian CIOLOŞ",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197631",
+    "nationalPoliticalGroup": "Uniunea Salvați România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Tudor CIUHODARU",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197657",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Corina CREȚU",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "33997",
+    "nationalPoliticalGroup": "PRO Romania",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Gheorghe FALCĂ",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197649",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Vlad GHEORGHE",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "209140",
+    "nationalPoliticalGroup": "Uniunea Salvați România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Maria GRAPINI",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124785",
+    "nationalPoliticalGroup": "Partidul Puterii Umaniste",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Mircea-Gheorghe HAVA",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197646",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Claudiu MANDA",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197653",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Marian-Jean MARINESCU",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "33982",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Alin MITUȚA",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "212855",
+    "nationalPoliticalGroup": "Partidul Libertate, Unitate și Solidaritate",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Dan-Ştefan MOTREANU",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197647",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Siegfried MUREŞAN",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124802",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Victor NEGRESCU",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "88882",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Dan NICA",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124784",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Gheorghe-Vlad NISTOR",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "202112",
+    "nationalPoliticalGroup": "Partidul Naţional Liberal",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Dragoş PÎSLARU",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197663",
+    "nationalPoliticalGroup": "Partidul Libertate, Unitate și Solidaritate",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Rovana PLUMB",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "38595",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Nicolae ŞTEFĂNUȚĂ",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "58766",
+    "nationalPoliticalGroup": "Uniunea Salvați România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Ramona STRUGARIU",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "134605",
+    "nationalPoliticalGroup": "Partidul Libertate, Unitate și Solidaritate",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Cristian TERHEŞ",
+    "country": "Romania",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197655",
+    "nationalPoliticalGroup": "Partidul Național Țărănesc Creștin Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Eugen TOMAC",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197672",
+    "nationalPoliticalGroup": "Partidul Mișcarea Populară",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Dragoş TUDORACHE",
+    "country": "Romania",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197665",
+    "nationalPoliticalGroup": "Partidul Libertate, Unitate și Solidaritate",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Mihai TUDOSE",
+    "country": "Romania",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "198183",
+    "nationalPoliticalGroup": "Partidul Social Democrat",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Loránt VINCZE",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "98582",
+    "nationalPoliticalGroup": "Uniunea Democrată Maghiară din România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Iuliu WINKLER",
+    "country": "Romania",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "39725",
+    "nationalPoliticalGroup": "Uniunea Democrată Maghiară din România",
+    "iso2": "RO"
+  },
+  {
+    "fullName": "Hynek BLAŠKO",
+    "country": "Czechia",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197564",
+    "nationalPoliticalGroup": "Svoboda a přímá demokracie",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Dita CHARANZOVÁ",
+    "country": "Czechia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124708",
+    "nationalPoliticalGroup": "ANO 2011",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Ivan DAVID",
+    "country": "Czechia",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197556",
+    "nationalPoliticalGroup": "Svoboda a přímá demokracie",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Martina DLABAJOVÁ",
+    "country": "Czechia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124709",
+    "nationalPoliticalGroup": "ANO 2011",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Markéta GREGOROVÁ",
+    "country": "Czechia",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197549",
+    "nationalPoliticalGroup": "PIRÁTI",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Martin HLAVÁČEK",
+    "country": "Czechia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197526",
+    "nationalPoliticalGroup": "ANO 2011",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Ondřej KNOTEK",
+    "country": "Czechia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197528",
+    "nationalPoliticalGroup": "ANO 2011",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Marcel KOLAJA",
+    "country": "Czechia",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197546",
+    "nationalPoliticalGroup": "PIRÁTI",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Kateřina KONEČNÁ",
+    "country": "Czechia",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "23699",
+    "nationalPoliticalGroup": "Komunistická strana Čech a Moravy",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Ondřej KOVAŘÍK",
+    "country": "Czechia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "118949",
+    "nationalPoliticalGroup": "ANO 2011",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Radka MAXOVÁ",
+    "country": "Czechia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197522",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Luděk NIEDERMAYER",
+    "country": "Czechia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124701",
+    "nationalPoliticalGroup": "TOP 09 a Starostové",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Mikuláš PEKSA",
+    "country": "Czechia",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197539",
+    "nationalPoliticalGroup": "PIRÁTI",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Stanislav POLČÁK",
+    "country": "Czechia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124704",
+    "nationalPoliticalGroup": "Starostové a nezávisli",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Jiří POSPÍŠIL",
+    "country": "Czechia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125706",
+    "nationalPoliticalGroup": "TOP 09 a Starostové",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Michaela ŠOJDROVÁ",
+    "country": "Czechia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124710",
+    "nationalPoliticalGroup": "Křesťanská a demokratická unie - Československá strana lidová",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Evžen TOŠENOVSKÝ",
+    "country": "Czechia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "96713",
+    "nationalPoliticalGroup": "Občanská demokratická strana",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Alexandr VONDRA",
+    "country": "Czechia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197537",
+    "nationalPoliticalGroup": "Občanská demokratická strana",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Veronika VRECIONOVÁ",
+    "country": "Czechia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197552",
+    "nationalPoliticalGroup": "Občanská demokratická strana",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Jan ZAHRADIL",
+    "country": "Czechia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "23712",
+    "nationalPoliticalGroup": "Občanská demokratická strana",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "Tomáš ZDECHOVSKÝ",
+    "country": "Czechia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124713",
+    "nationalPoliticalGroup": "Křesťanská a demokratická unie - Československá strana lidová",
+    "iso2": "CZ"
+  },
+  {
+    "fullName": "François ALFONSI",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96750",
+    "nationalPoliticalGroup": "Régions et Peuples Solidaires",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Eric ANDRIEU",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "113892",
+    "nationalPoliticalGroup": "Parti socialiste",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Mathilde ANDROUËT",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197691",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Manon AUBRY",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197533",
+    "nationalPoliticalGroup": "La France Insoumise",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jordan BARDELLA",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "131580",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Nicolas BAY",
+    "country": "France",
+    "politicalGroup": "Non-attached Members",
+    "id": "124760",
+    "nationalPoliticalGroup": "Reconquête!",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Aurélia BEIGNEUX",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197680",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "François-Xavier BELLAMY",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197534",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Stéphane BIJOUX",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197551",
+    "nationalPoliticalGroup": "La République en marche",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Dominique BILDE",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124771",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Benoît BITEAU",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197512",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Manuel BOMPARD",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197521",
+    "nationalPoliticalGroup": "La France Insoumise",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Gilles BOYER",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197577",
+    "nationalPoliticalGroup": "Indépendant",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Annika BRUNA",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "182995",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Sylvie BRUNET",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197576",
+    "nationalPoliticalGroup": "Mouvement Démocrate",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Pascal CANFIN",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "96711",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Damien CARÊME",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197574",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Catherine CHABAUD",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197505",
+    "nationalPoliticalGroup": "Mouvement Démocrate",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Leila CHAIBI",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197529",
+    "nationalPoliticalGroup": "La France Insoumise",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Ilana CICUREL",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "204416",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Nathalie COLIN-OESTERLÉ",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197536",
+    "nationalPoliticalGroup": "Les centristes",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Gilbert COLLARD",
+    "country": "France",
+    "politicalGroup": "Non-attached Members",
+    "id": "197683",
+    "nationalPoliticalGroup": "Reconquête!",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "David CORMAND",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197503",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Arnaud DANJEAN",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96747",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jérémy DECERLE",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197504",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Gwendoline DELBOS-CORFIELD",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197531",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Karima DELLI",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96868",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Geoffroy DIDIER",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "190774",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Pascal DURAND",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124693",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Agnès EVREN",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197535",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Laurence FARRENG",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197589",
+    "nationalPoliticalGroup": "Mouvement Démocrate",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jean-Paul GARRAUD",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197628",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Raphaël GLUCKSMANN",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197694",
+    "nationalPoliticalGroup": "Place publique",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Sandro GOZI",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "204419",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Catherine GRISET",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "94649",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Christophe GRUDLER",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197557",
+    "nationalPoliticalGroup": "Mouvement Démocrate",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Claude GRUFFAT",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "204420",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Bernard GUETTA",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197543",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Sylvie GUILLAUME",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96952",
+    "nationalPoliticalGroup": "Parti socialiste",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Valérie HAYER",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "135511",
+    "nationalPoliticalGroup": "La République en marche",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Brice HORTEFEUX",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "5565",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Yannick JADOT",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96740",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jean-François JALKH",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124770",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "France JAMET",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "189065",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Virginie JORON",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197627",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Herve JUVIN",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197626",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Pierre KARLESKIND",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197585",
+    "nationalPoliticalGroup": "La République en marche",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Fabienne KELLER",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "22858",
+    "nationalPoliticalGroup": "Agir - La Droite constructive",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jean-Lin LACAPELLE",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "204421",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Aurore LALUCQ",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197697",
+    "nationalPoliticalGroup": "Place publique",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Hélène LAPORTE",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197597",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Pierre LARROUTUROU",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197698",
+    "nationalPoliticalGroup": "Nouvelle Donne",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Gilles LEBRETON",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124738",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Julie LECHANTEUX",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197686",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Nathalie LOISEAU",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197494",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Thierry MARIANI",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197623",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Emmanuel MAUREL",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "24505",
+    "nationalPoliticalGroup": "Gauche républicaine et socialiste",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Nora MEBAREK",
+    "country": "France",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "204418",
+    "nationalPoliticalGroup": "Parti socialiste",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Joëlle MÉLIN",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124765",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Nadine MORANO",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "72779",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Philippe OLIVIER",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197687",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Younous OMARJEE",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "30482",
+    "nationalPoliticalGroup": "La France Insoumise",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Anne-Sophie PELLETIER",
+    "country": "France",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197527",
+    "nationalPoliticalGroup": "La France Insoumise",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Maxette PIRBAKAS",
+    "country": "France",
+    "politicalGroup": "Non-attached Members",
+    "id": "197629",
+    "nationalPoliticalGroup": "Reconquête!",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Dominique RIQUET",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "96885",
+    "nationalPoliticalGroup": "Mouvement Radical Social-Libéral",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Michèle RIVASI",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96743",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Jérôme RIVIÈRE",
+    "country": "France",
+    "politicalGroup": "Non-attached Members",
+    "id": "197615",
+    "nationalPoliticalGroup": "Reconquête!",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Caroline ROOSE",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197506",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "André ROUGÉ",
+    "country": "France",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197690",
+    "nationalPoliticalGroup": "Rassemblement national",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Anne SANDER",
+    "country": "France",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "24594",
+    "nationalPoliticalGroup": "Les Républicains",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Mounir SATOURI",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197500",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Stéphane SÉJOURNÉ",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197508",
+    "nationalPoliticalGroup": "La République en marche",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Irène TOLLERET",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197547",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Marie TOUSSAINT",
+    "country": "France",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "97236",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Véronique TRILLET-LENOIR",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197593",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Marie-Pierre VEDRENNE",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197502",
+    "nationalPoliticalGroup": "Mouvement Démocrate",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Salima YENBOU",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197511",
+    "nationalPoliticalGroup": "Europe Écologie",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Stéphanie YON-COURTIN",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197581",
+    "nationalPoliticalGroup": "Liste Renaissance",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Chrysoula ZACHAROPOULOU",
+    "country": "France",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197499",
+    "nationalPoliticalGroup": "La République en marche",
+    "iso2": "FR"
+  },
+  {
+    "fullName": "Attila ARA-KOVÁCS",
+    "country": "Hungary",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197587",
+    "nationalPoliticalGroup": "Demokratikus Koalíció",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Andrea BOCSKOR",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "124712",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Katalin CSEH",
+    "country": "Hungary",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197588",
+    "nationalPoliticalGroup": "Momentum",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Andor DELI",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "124714",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Tamás DEUTSCH",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "96826",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Klára DOBREV",
+    "country": "Hungary",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197579",
+    "nationalPoliticalGroup": "Demokratikus Koalíció",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Anna Júlia DONÁTH",
+    "country": "Hungary",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197595",
+    "nationalPoliticalGroup": "Momentum",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Kinga GÁL",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "28150",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Márton GYÖNGYÖSI",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "198063",
+    "nationalPoliticalGroup": "Jobbik Magyarországért Mozgalom",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Enikő GYŐRI",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "96830",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "András GYÜRK",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "23816",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Balázs HIDVÉGHI",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "124586",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "György HÖLVÉNYI",
+    "country": "Hungary",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124715",
+    "nationalPoliticalGroup": "Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Lívia JÁRÓKA",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "28141",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Ádám KÓSA",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "96829",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Csaba MOLNÁR",
+    "country": "Hungary",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124722",
+    "nationalPoliticalGroup": "Demokratikus Koalíció",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Sándor RÓNAI",
+    "country": "Hungary",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197584",
+    "nationalPoliticalGroup": "Demokratikus Koalíció",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Ernő SCHALLER-BAROSS",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "213330",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Edina TÓTH",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "27714",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "László TRÓCSÁNYI",
+    "country": "Hungary",
+    "politicalGroup": "Non-attached Members",
+    "id": "197894",
+    "nationalPoliticalGroup": "Fidesz-Magyar Polgári Szövetség-Kereszténydemokrata Néppárt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "István UJHELYI",
+    "country": "Hungary",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124705",
+    "nationalPoliticalGroup": "Magyar Szocialista Párt",
+    "iso2": "HU"
+  },
+  {
+    "fullName": "Franc BOGOVIČ",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125004",
+    "nationalPoliticalGroup": "Slovenska ljudska stranka",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Milan BRGLEZ",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197446",
+    "nationalPoliticalGroup": "Socialni demokrati",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Tanja FAJON",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96911",
+    "nationalPoliticalGroup": "Socialni demokrati",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Klemen GROŠELJ",
+    "country": "Slovenia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197452",
+    "nationalPoliticalGroup": "Lista Marjana Šarca",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Irena JOVEVA",
+    "country": "Slovenia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197447",
+    "nationalPoliticalGroup": "Lista Marjana Šarca",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Ljudmila NOVAK",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28294",
+    "nationalPoliticalGroup": "Nova Slovenija – Krščanski demokrati",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Romana TOMC",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125104",
+    "nationalPoliticalGroup": "Slovenska demokratska stranka",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Milan ZVER",
+    "country": "Slovenia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96933",
+    "nationalPoliticalGroup": "Slovenska demokratska stranka",
+    "iso2": "SI"
+  },
+  {
+    "fullName": "Margrete AUKEN",
+    "country": "Denmark",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "28161",
+    "nationalPoliticalGroup": "Socialistisk Folkeparti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Asger CHRISTENSEN",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197558",
+    "nationalPoliticalGroup": "Venstre, Danmarks Liberale Parti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Niels FUGLSANG",
+    "country": "Denmark",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "101585",
+    "nationalPoliticalGroup": "Socialdemokratiet",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Søren GADE",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197555",
+    "nationalPoliticalGroup": "Venstre, Danmarks Liberale Parti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Peter KOFOD",
+    "country": "Denmark",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197570",
+    "nationalPoliticalGroup": "Dansk Folkeparti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Morten LØKKEGAARD",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "96709",
+    "nationalPoliticalGroup": "Venstre, Danmarks Liberale Parti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Karen MELCHIOR",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197567",
+    "nationalPoliticalGroup": "Det Radikale Venstre",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Kira Marie PETER-HANSEN",
+    "country": "Denmark",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197573",
+    "nationalPoliticalGroup": "Socialistisk Folkeparti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Morten PETERSEN",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124872",
+    "nationalPoliticalGroup": "Det Radikale Venstre",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Christel SCHALDEMOSE",
+    "country": "Denmark",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "37312",
+    "nationalPoliticalGroup": "Socialdemokratiet",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Linea SØGAARD-LIDELL",
+    "country": "Denmark",
+    "politicalGroup": "Renew Europe Group",
+    "id": "204331",
+    "nationalPoliticalGroup": "Venstre, Danmarks Liberale Parti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Nikolaj VILLUMSEN",
+    "country": "Denmark",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197571",
+    "nationalPoliticalGroup": "Enhedslisten",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Marianne VIND",
+    "country": "Denmark",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "199941",
+    "nationalPoliticalGroup": "Socialdemokratiet",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Pernille WEISS",
+    "country": "Denmark",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197515",
+    "nationalPoliticalGroup": "Det Konservative Folkeparti",
+    "iso2": "DK"
+  },
+  {
+    "fullName": "Biljana BORZAN",
+    "country": "Croatia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "112748",
+    "nationalPoliticalGroup": "Socijaldemokratska partija Hrvatske",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Valter FLEGO",
+    "country": "Croatia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197419",
+    "nationalPoliticalGroup": "Istarski demokratski sabor - Dieta democratica istriana",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Sunčana GLAVAK",
+    "country": "Croatia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "202036",
+    "nationalPoliticalGroup": "Hrvatska demokratska zajednica",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Ladislav ILČIĆ",
+    "country": "Croatia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "221463",
+    "nationalPoliticalGroup": "Hrast – Pokret za uspješnu Hrvatsku",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Romana JERKOVIĆ",
+    "country": "Croatia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "112747",
+    "nationalPoliticalGroup": "Socijaldemokratska partija Hrvatske",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Mislav KOLAKUŠIĆ",
+    "country": "Croatia",
+    "politicalGroup": "Non-attached Members",
+    "id": "197438",
+    "nationalPoliticalGroup": "-",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Predrag Fred MATIĆ",
+    "country": "Croatia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197441",
+    "nationalPoliticalGroup": "Socijaldemokratska partija Hrvatske",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Tonino PICULA",
+    "country": "Croatia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "112744",
+    "nationalPoliticalGroup": "Socijaldemokratska partija Hrvatske",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Karlo RESSLER",
+    "country": "Croatia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197413",
+    "nationalPoliticalGroup": "Hrvatska demokratska zajednica",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Ivan Vilibor SINČIĆ",
+    "country": "Croatia",
+    "politicalGroup": "Non-attached Members",
+    "id": "197935",
+    "nationalPoliticalGroup": "Živi Zid",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Tomislav SOKOL",
+    "country": "Croatia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197417",
+    "nationalPoliticalGroup": "Hrvatska demokratska zajednica",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Željana ZOVKO",
+    "country": "Croatia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "185341",
+    "nationalPoliticalGroup": "Hrvatska demokratska zajednica",
+    "iso2": "HR"
+  },
+  {
+    "fullName": "Alex AGIUS SALIBA",
+    "country": "Malta",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197403",
+    "nationalPoliticalGroup": "Partit Laburista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "David CASA",
+    "country": "Malta",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28122",
+    "nationalPoliticalGroup": "Partit Nazzjonalista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "Josianne CUTAJAR",
+    "country": "Malta",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197394",
+    "nationalPoliticalGroup": "Partit Laburista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "Cyrus ENGERER",
+    "country": "Malta",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "209091",
+    "nationalPoliticalGroup": "Partit Laburista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "Roberta METSOLA",
+    "country": "Malta",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "118859",
+    "nationalPoliticalGroup": "Partit Nazzjonalista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "Alfred SANT",
+    "country": "Malta",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124781",
+    "nationalPoliticalGroup": "Partit Laburista",
+    "iso2": "MT"
+  },
+  {
+    "fullName": "Monika BEŇOVÁ",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "23868",
+    "nationalPoliticalGroup": "SMER-Sociálna demokracia",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Vladimír BILČÍK",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197771",
+    "nationalPoliticalGroup": "SPOLU – občianska demokracia",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Miroslav ČÍŽ",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197761",
+    "nationalPoliticalGroup": "SMER-Sociálna demokracia",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Lucia ĎURIŠ NICHOLSONOVÁ",
+    "country": "Slovakia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197766",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Robert HAJŠEL",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "34578",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Martin HOJSÍK",
+    "country": "Slovakia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197770",
+    "nationalPoliticalGroup": "Progresívne Slovensko",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Eugen JURZYCA",
+    "country": "Slovakia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197767",
+    "nationalPoliticalGroup": "Sloboda a Solidarita",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Miriam LEXMANN",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "204336",
+    "nationalPoliticalGroup": "Kresťanskodemokratické hnutie",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Peter POLLÁK",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197765",
+    "nationalPoliticalGroup": "Obyčajní ľudia a nezávislé osobnosti",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Miroslav RADAČOVSKÝ",
+    "country": "Slovakia",
+    "politicalGroup": "Non-attached Members",
+    "id": "197764",
+    "nationalPoliticalGroup": "Slovak PATRIOT",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Michal ŠIMEČKA",
+    "country": "Slovakia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "103746",
+    "nationalPoliticalGroup": "Progresívne Slovensko",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Ivan ŠTEFANEC",
+    "country": "Slovakia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124929",
+    "nationalPoliticalGroup": "Kresťanskodemokratické hnutie",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Milan UHRÍK",
+    "country": "Slovakia",
+    "politicalGroup": "Non-attached Members",
+    "id": "197763",
+    "nationalPoliticalGroup": "Hnutie Republika",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Michal WIEZIK",
+    "country": "Slovakia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197769",
+    "nationalPoliticalGroup": "Progresívne Slovensko",
+    "iso2": "SK"
+  },
+  {
+    "fullName": "Christine ANDERSON",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197475",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Rasmus ANDRESEN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197448",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Katarina BARLEY",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197433",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Gunnar BECK",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "132191",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Nicola BEER",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197437",
+    "nationalPoliticalGroup": "Freie Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Hildegard BENTELE",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197408",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Lars Patrick BERG",
+    "country": "Germany",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197478",
+    "nationalPoliticalGroup": "Liberal-Conservative Refomists",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Stefan BERGER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197410",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Gabriele BISCHOFF",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197435",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Michael BLOSS",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197449",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Damian BOESELAGER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197439",
+    "nationalPoliticalGroup": "Volt",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Karolin BRAUNSBERGER-REINHOLD",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "226260",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Patrick BREYER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197431",
+    "nationalPoliticalGroup": "Piratenpartei Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Markus BUCHHEIT",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "128483",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Udo BULLMANN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "4267",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Delara BURKHARDT",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197440",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Martin BUSCHMANN",
+    "country": "Germany",
+    "politicalGroup": "Non-attached Members",
+    "id": "197434",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Reinhard BÜTIKOFER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96739",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Daniel CASPARY",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28219",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Anna CAVAZZINI",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "86793",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Özlem DEMIREL",
+    "country": "Germany",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197468",
+    "nationalPoliticalGroup": "DIE LINKE.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Anna DEPARNAY-GRUNENBERG",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197453",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Christian DOLESCHAL",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197473",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Lena DÜPONT",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "99945",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Christian EHLER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28226",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Cornelia ERNST",
+    "country": "Germany",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "96852",
+    "nationalPoliticalGroup": "DIE LINKE.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Engin EROGLU",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197430",
+    "nationalPoliticalGroup": "Freie Wähler",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Ismail ERTUG",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96842",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Markus FERBER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "1917",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Nicolaus FEST",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197480",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Romeo FRANZ",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "193273",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Daniel FREUND",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "106936",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Michael GAHLER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "2341",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Malte GALLÉE",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "229352",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Alexandra GEESE",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "183916",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Jens GEIER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96833",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Helmut GEUKING",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197436",
+    "nationalPoliticalGroup": "Familien-Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Jens GIESEKE",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124807",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Andreas GLÜCK",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197443",
+    "nationalPoliticalGroup": "Freie Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Svenja HAHN",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197444",
+    "nationalPoliticalGroup": "Freie Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Henrike HAHN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197457",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Martin HÄUSLING",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96752",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Niclas HERBST",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197412",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Pierrette HERZBERGER-FOFANA",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197459",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Monika HOHLMEIER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96780",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Peter JAHR",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96772",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Petra KAMMEREVERT",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96837",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Ska KELLER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96734",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Moritz KÖRNER",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197445",
+    "nationalPoliticalGroup": "Freie Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Dietmar KÖSTER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124822",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Maximilian KRAH",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197481",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Constanze KREHL",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "1854",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Joachim KUHS",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197482",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Sergey LAGODINSKY",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197460",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Bernd LANGE",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "1909",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Katrin LANGENSIEPEN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197461",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Peter LIESE",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "1927",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Sylvia LIMMER",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197483",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Norbert LINS",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124808",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Karsten LUCKE",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "228286",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "David McALLISTER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124806",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Erik MARQUARDT",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197462",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Jörg MEUTHEN",
+    "country": "Germany",
+    "politicalGroup": "Non-attached Members",
+    "id": "190518",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Martina MICHELS",
+    "country": "Germany",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "120478",
+    "nationalPoliticalGroup": "DIE LINKE.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Marlene MORTLER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197427",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Ulrike MÜLLER",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124862",
+    "nationalPoliticalGroup": "Freie Wähler",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Hannah NEUMANN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197464",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Angelika NIEBLER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "4289",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Niklas NIENAß",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197465",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Maria NOICHL",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124836",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Jan-Christoph OETJEN",
+    "country": "Germany",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197432",
+    "nationalPoliticalGroup": "Freie Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Jutta PAULUS",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197466",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Markus PIEPER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28224",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Dennis RADTKE",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "188945",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Guido REIL",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197488",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Terry REINTKE",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "103381",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "René REPASI",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "229839",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Manuela RIPA",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "206158",
+    "nationalPoliticalGroup": "Ökologisch-Demokratische Partei",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Martin SCHIRDEWAN",
+    "country": "Germany",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "190517",
+    "nationalPoliticalGroup": "DIE LINKE.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Christine SCHNEIDER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197422",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Helmut SCHOLZ",
+    "country": "Germany",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "96646",
+    "nationalPoliticalGroup": "DIE LINKE.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Joachim SCHUSTER",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124837",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Andreas SCHWAB",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28223",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Ralf SEEKATZ",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197425",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Nico SEMSROTT",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197423",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Sven SIMON",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197426",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Birgit SIPPEL",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96932",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Martin SONNEBORN",
+    "country": "Germany",
+    "politicalGroup": "Non-attached Members",
+    "id": "124834",
+    "nationalPoliticalGroup": "Die PARTEI",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Sabine VERHEYEN",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96756",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Viola VON CRAMON-TAUBADEL",
+    "country": "Germany",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197451",
+    "nationalPoliticalGroup": "Bündnis 90/Die Grünen",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Axel VOSS",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96761",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Marion WALSMANN",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197429",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Manfred WEBER",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28229",
+    "nationalPoliticalGroup": "Christlich-Soziale Union in Bayern e.V.",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Rainer WIELAND",
+    "country": "Germany",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "2323",
+    "nationalPoliticalGroup": "Christlich Demokratische Union Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Tiemo WÖLKEN",
+    "country": "Germany",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "185619",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Deutschlands",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Bernhard ZIMNIOK",
+    "country": "Germany",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197489",
+    "nationalPoliticalGroup": "Alternative für Deutschland",
+    "iso2": "DE"
+  },
+  {
+    "fullName": "Isabella ADINOLFI",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124831",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Matteo ADINOLFI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197826",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Simona BALDASSARRE",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197789",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Pietro BARTOLO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197808",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Alessandra BASSO",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197610",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Tiziana BEGHIN",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "124777",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Brando BENIFEI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124867",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Sergio BERLATO",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "4746",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Silvio BERLUSCONI",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "4391",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Mara BIZZOTTO",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "97198",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Simona BONAFÈ",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124814",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Anna BONFRISCO",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197788",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Paolo BORCHIA",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "101039",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Carlo CALENDA",
+    "country": "Italy",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197617",
+    "nationalPoliticalGroup": "Azione",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Marco CAMPOMENOSI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "35016",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Andrea CAROPPO",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197797",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Massimo CASANOVA",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197796",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Fabio Massimo CASTALDO",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "124812",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Susanna CECCARDI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197786",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Caterina CHINNICI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124861",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Angelo CIOCCA",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "183793",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Rosanna CONTE",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197616",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Ignazio CORRAO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124856",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Andrea COZZOLINO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96880",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Rosa D'AMATO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124835",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Nicola DANTI",
+    "country": "Italy",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124821",
+    "nationalPoliticalGroup": "Italia Viva",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Gianantonio DA RE",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197608",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Paolo DE CASTRO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96891",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Salvatore DE MEO",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "204333",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Francesca DONATO",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197822",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Herbert DORFMANN",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96787",
+    "nationalPoliticalGroup": "Südtiroler Volkspartei",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Marco DREOSTO",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197614",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Eleonora EVI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124779",
+    "nationalPoliticalGroup": "Europa Verde",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Giuseppe FERRANDINO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "192634",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Laura FERRARA",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "124833",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Carlo FIDANZA",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "96810",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Pietro FIOCCHI",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197607",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Raffaele FITTO",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "4465",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Mario FURORE",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197795",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Gianna GANCIA",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197582",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Chiara GEMMA",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197794",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Dino GIARRUSSO",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197804",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Valentino GRANT",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197799",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Elisabetta GUALMINI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197618",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Danilo Oscar LANCINI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "192635",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Camilla LAURETI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "230085",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Elena LIZZI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197611",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Pierfrancesco MAJORINO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197592",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Fulvio MARTUSCIELLO",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124828",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Giuseppe MILAZZO",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197824",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Alessandra MORETTI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124799",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Alessandro PANZA",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "99283",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Aldo PATRICIELLO",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "36392",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Piernicola PEDICINI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124844",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Pina PICIERNO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124846",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Sabrina PIGNEDOLI",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197619",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Giuliano PISAPIA",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197590",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Nicola PROCACCINI",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197820",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Luisa REGIMENTI",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197790",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Antonio Maria RINALDI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197787",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Franco ROBERTI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197801",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Daniela RONDINELLI",
+    "country": "Italy",
+    "politicalGroup": "Non-attached Members",
+    "id": "197792",
+    "nationalPoliticalGroup": "Movimento 5 Stelle",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Massimiliano SALINI",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125670",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Silvia SARDONE",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197578",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Massimiliano SMERIGLIO",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197791",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Vincenzo SOFO",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "204334",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Raffaele STANCANELLI",
+    "country": "Italy",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197825",
+    "nationalPoliticalGroup": "Fratelli d'Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Antonio TAJANI",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "2187",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Annalisa TARDINO",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197806",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Irene TINAGLI",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197591",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Patrizia TOIA",
+    "country": "Italy",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "28340",
+    "nationalPoliticalGroup": "Partito Democratico",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Isabella TOVAGLIERI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197580",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Lucia VUOLO",
+    "country": "Italy",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197798",
+    "nationalPoliticalGroup": "Forza Italia",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Stefania ZAMBELLI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197586",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Marco ZANNI",
+    "country": "Italy",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "124780",
+    "nationalPoliticalGroup": "Lega",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Marco ZULLO",
+    "country": "Italy",
+    "politicalGroup": "Renew Europe Group",
+    "id": "125237",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IT"
+  },
+  {
+    "fullName": "Malik AZMANI",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197781",
+    "nationalPoliticalGroup": "Volkspartij voor Vrijheid en Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Tom BERENDSEN",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197778",
+    "nationalPoliticalGroup": "Christen Democratisch Appèl",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Mohammed CHAHIM",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197782",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Peter van DALEN",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96809",
+    "nationalPoliticalGroup": "ChristenUnie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Bas EICKHOUT",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "96725",
+    "nationalPoliticalGroup": "GroenLinks",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Marcel de GRAAFF",
+    "country": "Netherlands",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "125025",
+    "nationalPoliticalGroup": "Partij voor de Vrijheid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Bart GROOTHUIS",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197780",
+    "nationalPoliticalGroup": "Volkspartij voor Vrijheid en Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Anja HAZEKAMP",
+    "country": "Netherlands",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "125023",
+    "nationalPoliticalGroup": "Partij voor de Dieren",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Michiel HOOGEVEEN",
+    "country": "Netherlands",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "218349",
+    "nationalPoliticalGroup": "JA21",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Jan HUITEMA",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "58789",
+    "nationalPoliticalGroup": "Volkspartij voor Vrijheid en Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Sophia IN 'T VELD",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "28266",
+    "nationalPoliticalGroup": "Democraten 66",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Agnes JONGERIUS",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125021",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Esther de LANGE",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "38398",
+    "nationalPoliticalGroup": "Christen Democratisch Appèl",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Jeroen LENAERS",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "95074",
+    "nationalPoliticalGroup": "Christen Democratisch Appèl",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Antonius MANDERS",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "4560",
+    "nationalPoliticalGroup": "Christen Democratisch Appèl",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Caroline NAGTEGAAL",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "190519",
+    "nationalPoliticalGroup": "Volkspartij voor Vrijheid en Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Samira RAFAELA",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197868",
+    "nationalPoliticalGroup": "Democraten 66",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Thijs REUTEN",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "218347",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Catharina RINZEMA",
+    "country": "Netherlands",
+    "politicalGroup": "Renew Europe Group",
+    "id": "229519",
+    "nationalPoliticalGroup": "Volkspartij voor Vrijheid en Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Rob ROOKEN",
+    "country": "Netherlands",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197776",
+    "nationalPoliticalGroup": "JA21",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Dorien ROOKMAKER",
+    "country": "Netherlands",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "204733",
+    "nationalPoliticalGroup": "Meer Directe Democratie",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Robert ROOS",
+    "country": "Netherlands",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197709",
+    "nationalPoliticalGroup": "JA21",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Bert-Jan RUISSEN",
+    "country": "Netherlands",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197773",
+    "nationalPoliticalGroup": "Staatkundig Gereformeerde Partij",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Annie SCHREIJER-PIERIK",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "125030",
+    "nationalPoliticalGroup": "Christen Democratisch Appèl",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Tineke STRIK",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197772",
+    "nationalPoliticalGroup": "GroenLinks",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Paul TANG",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "125020",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Vera TAX",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197756",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Kim VAN SPARRENTAK",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197870",
+    "nationalPoliticalGroup": "GroenLinks",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Lara WOLTERS",
+    "country": "Netherlands",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "5392",
+    "nationalPoliticalGroup": "Partij van de Arbeid",
+    "iso2": "NL"
+  },
+  {
+    "fullName": "Alviina ALAMETSÄ",
+    "country": "Finland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "204335",
+    "nationalPoliticalGroup": "Vihreä liitto",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Teuvo HAKKARAINEN",
+    "country": "Finland",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197596",
+    "nationalPoliticalGroup": "Perussuomalaiset",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Heidi HAUTALA",
+    "country": "Finland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "2054",
+    "nationalPoliticalGroup": "Vihreä liitto",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Eero HEINÄLUOMA",
+    "country": "Finland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197800",
+    "nationalPoliticalGroup": "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Laura HUHTASAARI",
+    "country": "Finland",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197594",
+    "nationalPoliticalGroup": "Perussuomalaiset",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Elsi KATAINEN",
+    "country": "Finland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "191693",
+    "nationalPoliticalGroup": "Suomen Keskusta",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Miapetra KUMPULA-NATRI",
+    "country": "Finland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124735",
+    "nationalPoliticalGroup": "Suomen Sosialidemokraattinen Puolue/Finlands Socialdemokratiska Parti",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Silvia MODIG",
+    "country": "Finland",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197805",
+    "nationalPoliticalGroup": "Vasemmistoliitto",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Ville NIINISTÖ",
+    "country": "Finland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197802",
+    "nationalPoliticalGroup": "Vihreä liitto",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Mauri PEKKARINEN",
+    "country": "Finland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197563",
+    "nationalPoliticalGroup": "Suomen Keskusta",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Sirpa PIETIKÄINEN",
+    "country": "Finland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "40599",
+    "nationalPoliticalGroup": "Kansallinen Kokoomus",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Petri SARVAMAA",
+    "country": "Finland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "112611",
+    "nationalPoliticalGroup": "Kansallinen Kokoomus",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Nils TORVALDS",
+    "country": "Finland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "114268",
+    "nationalPoliticalGroup": "Svenska folkpartiet",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Henna VIRKKUNEN",
+    "country": "Finland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124726",
+    "nationalPoliticalGroup": "Kansallinen Kokoomus",
+    "iso2": "FI"
+  },
+  {
+    "fullName": "Andrus ANSIP",
+    "country": "Estonia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124696",
+    "nationalPoliticalGroup": "Eesti Reformierakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Marina KALJURAND",
+    "country": "Estonia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197491",
+    "nationalPoliticalGroup": "Sotsiaaldemokraatlik Erakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Jaak MADISON",
+    "country": "Estonia",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "197493",
+    "nationalPoliticalGroup": "Eesti Konservatiivne Rahvaerakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Sven MIKSER",
+    "country": "Estonia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197497",
+    "nationalPoliticalGroup": "Sotsiaaldemokraatlik Erakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Urmas PAET",
+    "country": "Estonia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "129073",
+    "nationalPoliticalGroup": "Eesti Reformierakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Riho TERRAS",
+    "country": "Estonia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "204449",
+    "nationalPoliticalGroup": "Isamaa",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Yana TOOM",
+    "country": "Estonia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "124700",
+    "nationalPoliticalGroup": "Eesti Keskerakond",
+    "iso2": "EE"
+  },
+  {
+    "fullName": "Lefteris CHRISTOFOROU",
+    "country": "Cyprus",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "26837",
+    "nationalPoliticalGroup": "Democratic Rally",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Loucas FOURLAS",
+    "country": "Cyprus",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197414",
+    "nationalPoliticalGroup": "Democratic Rally",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Giorgos GEORGIOU",
+    "country": "Cyprus",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197416",
+    "nationalPoliticalGroup": "Progressive Party of Working People - Left - New Forces",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Niyazi KIZILYÜREK",
+    "country": "Cyprus",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197415",
+    "nationalPoliticalGroup": "Progressive Party of Working People - Left - New Forces",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Costas MAVRIDES",
+    "country": "Cyprus",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124691",
+    "nationalPoliticalGroup": "Democratic Party",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Demetris PAPADAKIS",
+    "country": "Cyprus",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124692",
+    "nationalPoliticalGroup": "Movement for Social Democracy EDEK",
+    "iso2": "CY"
+  },
+  {
+    "fullName": "Alexander BERNHUBER",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197648",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Claudia GAMON",
+    "country": "Austria",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197632",
+    "nationalPoliticalGroup": "NEOS – Das Neue Österreich",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Roman HAIDER",
+    "country": "Austria",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "198176",
+    "nationalPoliticalGroup": "Freiheitliche Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Hannes HEIDE",
+    "country": "Austria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197682",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Othmar KARAS",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "4246",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Lukas MANDL",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "190713",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Georg MAYER",
+    "country": "Austria",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "38511",
+    "nationalPoliticalGroup": "Freiheitliche Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Evelyn REGNER",
+    "country": "Austria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "96998",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Christian SAGARTZ",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "204368",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Andreas SCHIEDER",
+    "country": "Austria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197670",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Simone SCHMIEDTBAUER",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197656",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Günther SIDL",
+    "country": "Austria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197677",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Barbara THALER",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197667",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Monika VANA",
+    "country": "Austria",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "124934",
+    "nationalPoliticalGroup": "Die Grünen - Die Grüne Alternative",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Harald VILIMSKY",
+    "country": "Austria",
+    "politicalGroup": "Identity and Democracy Group",
+    "id": "125001",
+    "nationalPoliticalGroup": "Freiheitliche Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Bettina VOLLATH",
+    "country": "Austria",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197678",
+    "nationalPoliticalGroup": "Sozialdemokratische Partei Österreichs",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Thomas WAITZ",
+    "country": "Austria",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "190464",
+    "nationalPoliticalGroup": "Die Grünen - Die Grüne Alternative",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Sarah WIENER",
+    "country": "Austria",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197675",
+    "nationalPoliticalGroup": "Die Grünen - Die Grüne Alternative",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Angelika WINZIG",
+    "country": "Austria",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197652",
+    "nationalPoliticalGroup": "Österreichische Volkspartei",
+    "iso2": "AT"
+  },
+  {
+    "fullName": "Abir AL-SAHLANI",
+    "country": "Sweden",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197400",
+    "nationalPoliticalGroup": "Centerpartiet",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Erik BERGKVIST",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197396",
+    "nationalPoliticalGroup": "Arbetarepartiet- Socialdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Malin BJÖRK",
+    "country": "Sweden",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "124992",
+    "nationalPoliticalGroup": "Vänsterpartiet",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Jakop G. DALUNDE",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "183338",
+    "nationalPoliticalGroup": "Miljöpartiet de gröna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Ilan DE BASSO",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "228604",
+    "nationalPoliticalGroup": "Arbetarepartiet- Socialdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Heléne FRITZON",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197391",
+    "nationalPoliticalGroup": "Arbetarepartiet- Socialdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Jytte GUTELAND",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "124991",
+    "nationalPoliticalGroup": "Arbetarepartiet- Socialdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Pär HOLMGREN",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197398",
+    "nationalPoliticalGroup": "Miljöpartiet de gröna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Evin INCIR",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197392",
+    "nationalPoliticalGroup": "Arbetarepartiet- Socialdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Karin KARLSBRO",
+    "country": "Sweden",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197401",
+    "nationalPoliticalGroup": "Liberalerna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Arba KOKALARI",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197406",
+    "nationalPoliticalGroup": "Moderaterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Alice KUHNKE",
+    "country": "Sweden",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197395",
+    "nationalPoliticalGroup": "Miljöpartiet de gröna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "David LEGA",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197393",
+    "nationalPoliticalGroup": "Kristdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Peter LUNDGREN",
+    "country": "Sweden",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124996",
+    "nationalPoliticalGroup": "Sverigedemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Jessica POLFJÄRD",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197404",
+    "nationalPoliticalGroup": "Moderaterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Sara SKYTTEDAL",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197390",
+    "nationalPoliticalGroup": "Kristdemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Jessica STEGRUD",
+    "country": "Sweden",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197399",
+    "nationalPoliticalGroup": "Sverigedemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Tomas TOBÉ",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197402",
+    "nationalPoliticalGroup": "Moderaterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Jörgen WARBORN",
+    "country": "Sweden",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197405",
+    "nationalPoliticalGroup": "Moderaterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Charlie WEIMERS",
+    "country": "Sweden",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "123562",
+    "nationalPoliticalGroup": "Sverigedemokraterna",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Emma WIESNER",
+    "country": "Sweden",
+    "politicalGroup": "Renew Europe Group",
+    "id": "214839",
+    "nationalPoliticalGroup": "Centerpartiet",
+    "iso2": "SE"
+  },
+  {
+    "fullName": "Barry ANDREWS",
+    "country": "Ireland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "204332",
+    "nationalPoliticalGroup": "Fianna Fáil Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Deirdre CLUNE",
+    "country": "Ireland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124988",
+    "nationalPoliticalGroup": "Fine Gael Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Ciarán CUFFE",
+    "country": "Ireland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197654",
+    "nationalPoliticalGroup": "Green Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Clare DALY",
+    "country": "Ireland",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197731",
+    "nationalPoliticalGroup": "Independents for change",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Frances FITZGERALD",
+    "country": "Ireland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197720",
+    "nationalPoliticalGroup": "Fine Gael Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Luke Ming FLANAGAN",
+    "country": "Ireland",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "124985",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Billy KELLEHER",
+    "country": "Ireland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197818",
+    "nationalPoliticalGroup": "Fianna Fáil Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Seán KELLY",
+    "country": "Ireland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96668",
+    "nationalPoliticalGroup": "Fine Gael Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Chris MACMANUS",
+    "country": "Ireland",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "205452",
+    "nationalPoliticalGroup": "Sinn Féin",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Colm MARKEY",
+    "country": "Ireland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "209896",
+    "nationalPoliticalGroup": "Fine Gael Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Grace O'SULLIVAN",
+    "country": "Ireland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197889",
+    "nationalPoliticalGroup": "Green Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Mick WALLACE",
+    "country": "Ireland",
+    "politicalGroup": "The Left group in the European Parliament - GUE/NGL",
+    "id": "197817",
+    "nationalPoliticalGroup": "Independents for change",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Maria WALSH",
+    "country": "Ireland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197863",
+    "nationalPoliticalGroup": "Fine Gael Party",
+    "iso2": "IE"
+  },
+  {
+    "fullName": "Andris AMERIKS",
+    "country": "Latvia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197783",
+    "nationalPoliticalGroup": "Gods kalpot Rīgai",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Ivars IJABS",
+    "country": "Latvia",
+    "politicalGroup": "Renew Europe Group",
+    "id": "197624",
+    "nationalPoliticalGroup": "Attīstībai/Par!",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Sandra KALNIETE",
+    "country": "Latvia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96934",
+    "nationalPoliticalGroup": "Partija \"VIENOTĪBA\"",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Dace MELBĀRDE",
+    "country": "Latvia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "130256",
+    "nationalPoliticalGroup": "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Nils UŠAKOVS",
+    "country": "Latvia",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197810",
+    "nationalPoliticalGroup": "\"Saskaņa\" sociāldemokrātiskā partija",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Inese VAIDERE",
+    "country": "Latvia",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28617",
+    "nationalPoliticalGroup": "Partija \"VIENOTĪBA\"",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Tatjana ŽDANOKA",
+    "country": "Latvia",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "28619",
+    "nationalPoliticalGroup": "Latvijas Krievu savienība",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Roberts ZĪLE",
+    "country": "Latvia",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "28615",
+    "nationalPoliticalGroup": "Nacionālā apvienība \"Visu Latvijai!\"-\"Tēvzemei un Brīvībai/LNNK\"",
+    "iso2": "LV"
+  },
+  {
+    "fullName": "Magdalena ADAMOWICZ",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197490",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Bartosz ARŁUKOWICZ",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197492",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Marek Paweł BALT",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197495",
+    "nationalPoliticalGroup": "Sojusz Lewicy Demokratycznej",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Marek BELKA",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197496",
+    "nationalPoliticalGroup": "Sojusz Lewicy Demokratycznej",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Robert BIEDROŃ",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197498",
+    "nationalPoliticalGroup": "Nowa Lewica",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Adam BIELAN",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "23788",
+    "nationalPoliticalGroup": "Partia Republikańska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Joachim Stanisław BRUDZIŃSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197501",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jerzy BUZEK",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28269",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Włodzimierz CIMOSZEWICZ",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197507",
+    "nationalPoliticalGroup": "Sojusz Lewicy Demokratycznej - Unia Pracy",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Ryszard CZARNECKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "28372",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jarosław DUDA",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197510",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Anna FOTYGA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "28353",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Tomasz FRANKOWSKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197513",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Andrzej HALICKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197514",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Krzysztof HETMAN",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "124895",
+    "nationalPoliticalGroup": "Polskie Stronnictwo Ludowe",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Danuta Maria HÜBNER",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96779",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Patryk JAKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197516",
+    "nationalPoliticalGroup": "Solidarna Polska Zbigniewa Ziobro",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Adam JARUBAS",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197517",
+    "nationalPoliticalGroup": "Polskie Stronnictwo Ludowe",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Krzysztof JURGIEL",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197518",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jarosław KALINOWSKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96771",
+    "nationalPoliticalGroup": "Polskie Stronnictwo Ludowe",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Karol KARSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124887",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Beata KEMPA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197519",
+    "nationalPoliticalGroup": "Solidarna Polska Zbigniewa Ziobro",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Izabela-Helena KLOC",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197520",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Łukasz KOHUT",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197523",
+    "nationalPoliticalGroup": "Nowa Lewica",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Ewa KOPACZ",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197525",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Joanna KOPCIŃSKA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197530",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Zdzisław KRASNODĘBSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124891",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Elżbieta KRUK",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197532",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Zbigniew KUŹMIUK",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "28389",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Ryszard Antoni LEGUTKO",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "96796",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Janusz LEWANDOWSKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "23781",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Bogusław LIBERADZKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "23768",
+    "nationalPoliticalGroup": "Sojusz Lewicy Demokratycznej",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Elżbieta Katarzyna ŁUKACIJEWSKA",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "96791",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Beata MAZUREK",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197538",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Leszek MILLER",
+    "country": "Poland",
+    "politicalGroup": "Group of the Progressive Alliance of Socialists and Democrats in the European Parliament",
+    "id": "197540",
+    "nationalPoliticalGroup": "Sojusz Lewicy Demokratycznej",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Andżelika Anna MOŻDŻANOWSKA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197541",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Janina OCHOJSKA",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197542",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jan OLBRYCHT",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "28288",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Tomasz Piotr PORĘBA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "96801",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Elżbieta RAFALSKA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197544",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Bogdan RZOŃCA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197545",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jacek SARYUSZ-WOLSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "28297",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Radosław SIKORSKI",
+    "country": "Poland",
+    "politicalGroup": "Group of the European People's Party (Christian Democrats)",
+    "id": "197548",
+    "nationalPoliticalGroup": "Platforma Obywatelska",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Sylwia SPUREK",
+    "country": "Poland",
+    "politicalGroup": "Group of the Greens/European Free Alliance",
+    "id": "197550",
+    "nationalPoliticalGroup": "Independent",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Beata SZYDŁO",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197553",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Dominik TARCZYŃSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "204346",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Róża THUN UND HOHENSTEIN",
+    "country": "Poland",
+    "politicalGroup": "Renew Europe Group",
+    "id": "96776",
+    "nationalPoliticalGroup": "Polska 2050",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Grzegorz TOBISZOWSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197559",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Witold Jan WASZCZYKOWSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197566",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Jadwiga WIŚNIEWSKA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124877",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Anna ZALEWSKA",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "197572",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  },
+  {
+    "fullName": "Kosma ZŁOTOWSKI",
+    "country": "Poland",
+    "politicalGroup": "European Conservatives and Reformists Group",
+    "id": "124884",
+    "nationalPoliticalGroup": "Prawo i Sprawiedliwość",
+    "iso2": "PL"
+  }
+]
